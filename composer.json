@@ -1,5 +1,5 @@
 {
-    "name": "MrReval/Encryptor",
+    "name": "mrreval/encryptor",
     "description": "A simple package for data encryption and decryption using AES-256-CBC.",
     "type": "library",
     "license": "MIT",
